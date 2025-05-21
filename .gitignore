@@ -1,0 +1,21 @@
+# Conda
+arbitrage_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
+# Configs
+configs/secrets.ini
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

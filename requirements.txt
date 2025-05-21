@@ -1,0 +1,6 @@
+httpx
+websockets
+# configparser (Python 内置)
+# logging (Python 内置)
+# asyncio (Python 内置)
+
